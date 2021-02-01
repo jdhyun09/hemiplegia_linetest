@@ -1,0 +1,45 @@
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\bin\Debug\linebisectiontest.exe.config
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\bin\Debug\linebisectiontest.exe
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\bin\Debug\linebisectiontest.pdb
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.csprojAssemblyReference.cache
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\MainWindow.g.cs
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\App.g.cs
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest_MarkupCompile.cache
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest_MarkupCompile.lref
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\MainWindow.baml
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.g.resources
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.Properties.Resources.resources
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.csproj.GenerateResource.cache
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.csproj.CoreCompileInputs.cache
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.exe
+C:\Users\nipanotebook1\source\repos\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\bin\Debug\linebisectiontest.exe.config
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\bin\Debug\linebisectiontest.exe
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\bin\Debug\linebisectiontest.pdb
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.csprojAssemblyReference.cache
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\MainWindow.g.cs
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\App.g.cs
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest_MarkupCompile.cache
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest_MarkupCompile.lref
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\MainWindow.baml
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.g.resources
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.Properties.Resources.resources
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.csproj.GenerateResource.cache
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.csproj.CoreCompileInputs.cache
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.exe
+\\Awesomepianas\한국외대-인턴쉽\3. 정동현\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.pdb
+E:\linebisectiontest\linebisectiontest\bin\Debug\linebisectiontest.exe.config
+E:\linebisectiontest\linebisectiontest\bin\Debug\linebisectiontest.exe
+E:\linebisectiontest\linebisectiontest\bin\Debug\linebisectiontest.pdb
+E:\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.csprojAssemblyReference.cache
+E:\linebisectiontest\linebisectiontest\obj\Debug\MainWindow.g.cs
+E:\linebisectiontest\linebisectiontest\obj\Debug\App.g.cs
+E:\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest_MarkupCompile.cache
+E:\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest_MarkupCompile.lref
+E:\linebisectiontest\linebisectiontest\obj\Debug\MainWindow.baml
+E:\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.g.resources
+E:\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.Properties.Resources.resources
+E:\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.csproj.GenerateResource.cache
+E:\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.csproj.CoreCompileInputs.cache
+E:\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.exe
+E:\linebisectiontest\linebisectiontest\obj\Debug\linebisectiontest.pdb
